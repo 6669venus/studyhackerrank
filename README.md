@@ -1,1 +1,1 @@
-# studyhackerrank
+# hackerrank
